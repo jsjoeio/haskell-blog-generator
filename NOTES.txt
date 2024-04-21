@@ -3,6 +3,9 @@ https://learn-haskell.blog/02-hello.html
 
 ## concepts
 - Haskell functions always take one argument
+- DSLs
+- combinator pattern (primitives and combinators)
+- compose (.), unit (())
 
 ## vocabulary
 - partial application
@@ -11,3 +14,16 @@ https://learn-haskell.blog/02-hello.html
 - lambda
 - anonymous
 - syntactic sugar
+- encapsulation
+- pattern matching
+- parametric polymorphism, generics
+- type variables
+- expression
+- arguments
+- type alias
+- modules 
+- smart constructors 
+
+## patterns
+- camelCase
+- TitleCase
