@@ -1,2 +1,13 @@
 Apuntes de aprender haskell con 
 https://learn-haskell.blog/02-hello.html
+
+## concepts
+- Haskell functions always take one argument
+
+## vocabulary
+- partial application
+- first class
+- referential transparency
+- lambda
+- anonymous
+- syntactic sugar
