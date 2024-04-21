@@ -1,0 +1,2 @@
+Apuntes de aprender haskell con 
+https://learn-haskell.blog/02-hello.html
