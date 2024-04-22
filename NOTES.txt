@@ -7,6 +7,10 @@ https://learn-haskell.blog/02-hello.html
 - combinator pattern (primitives and combinators)
 - compose (.), unit (())
 - exporting from a module
+- list []
+- cons operator (:)
+- using ghci to test code quickly
+- load a file locally, import a library
 
 ## vocabulary
 - partial application
@@ -30,3 +34,4 @@ https://learn-haskell.blog/02-hello.html
 - camelCase
 - TitleCase
 - suffix functions with _ (look at `lucid` library)
+- Text vs String
