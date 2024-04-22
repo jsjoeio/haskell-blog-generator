@@ -6,6 +6,7 @@ https://learn-haskell.blog/02-hello.html
 - DSLs
 - combinator pattern (primitives and combinators)
 - compose (.), unit (())
+- exporting from a module
 
 ## vocabulary
 - partial application
@@ -23,7 +24,9 @@ https://learn-haskell.blog/02-hello.html
 - type alias
 - modules 
 - smart constructors 
+- module
 
 ## patterns
 - camelCase
 - TitleCase
+- suffix functions with _ (look at `lucid` library)
