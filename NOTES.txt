@@ -11,6 +11,7 @@ https://learn-haskell.blog/02-hello.html
 - cons operator (:)
 - using ghci to test code quickly
 - load a file locally, import a library
+- publishing packages to Hackage
 
 ## vocabulary
 - partial application
@@ -29,9 +30,11 @@ https://learn-haskell.blog/02-hello.html
 - modules 
 - smart constructors 
 - module
+- internal modules
 
 ## patterns
 - camelCase
 - TitleCase
 - suffix functions with _ (look at `lucid` library)
 - Text vs String
+- internal modules vs external modules
